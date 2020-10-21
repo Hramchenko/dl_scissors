@@ -2,7 +2,7 @@
 
 ![logo](logo.gif)
 
-This repo contains code for [Writing a simple 3D reconstruction system](https://medium.com/@v.hramchenko/writing-a-simple-3d-reconstruction-system-221e2a1fa5ae).
+This repo contains code for [How to cut out a person in an image with open source projects](https://v-hramchenko.medium.com/how-to-cut-out-a-person-in-an-image-with-open-source-projects-e5e7f8798d5c).
 
 ## Requirements
 * python
